@@ -79,3 +79,7 @@ Open the Jupyter Notebook model_training.ipynb and execute the cells to build, t
 The project achieves accurate diamond price prediction by machine learning algorithms,  linear regression. The performance of each model is evaluated using appropriate metrics such as mean squared error and R-squared. The feature importance analysis provides insights into the factors influencing diamond prices.
 
    
+## *Follow me on* 
+
+-[Medium](https://medium.com/@chandrashekar316)
+-[LinkedIn](https://www.linkedin.com/in/chandrashekar316/)
