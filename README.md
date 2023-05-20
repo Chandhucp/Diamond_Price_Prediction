@@ -82,5 +82,6 @@ The project achieves accurate diamond price prediction by machine learning algor
 ## *Follow me on* 
 =================
 
+- ![LinkedIn Logo](![174857](https://github.com/Chandhucp/Diamond_Price_Prediction/assets/92459017/47defba2-e93e-4519-8531-0d8497c25364)) [LinkedIn](https://www.linkedin.com/in/chandrashekar316/)
 - [Medium](https://medium.com/@chandrashekar316)
-- [LinkedIn](https://www.linkedin.com/in/chandrashekar316/)
+
