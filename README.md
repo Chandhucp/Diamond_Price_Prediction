@@ -9,11 +9,10 @@ This project aims to predict the price of diamonds based on various features usi
 
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
+
 
 ## Dataset
 
