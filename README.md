@@ -1,5 +1,7 @@
 ## Diamond Price Prediction
+===========================
 ## End to End Machine Learning Project
+--------------------------------------
 
 
 This project aims to predict the price of diamonds based on various features using machine learning techniques. The code and documentation provided here demonstrate the entire workflow from data preprocessing to model evaluation.
