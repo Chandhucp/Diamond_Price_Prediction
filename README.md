@@ -42,17 +42,26 @@ Clone the repository:
 
   To run the project and reproduce the results, follow these steps:
 
+
+
 #### 1.Prepare the dataset:
 
 Place the diamonds.csv file in the data directory.
+
+
 
 #### 2.Data preprocessing: 
 
 Open the Jupyter Notebook data_preprocessing.ipynb and execute the cells to perform necessary preprocessing steps, such as handling missing values, encoding categorical variables, and normalizing numerical features. This notebook also includes exploratory data analysis and feature engineering.
 
+
+
 #### 3.Model training and evaluation: 
 
 Open the Jupyter Notebook model_training.ipynb and execute the cells to build, train, and evaluate various machine learning models using scikit-learn. The notebook implements a pipeline to streamline the preprocessing and modeling steps, allowing for efficient and reproducible model development.
+
+
+
 
 
 ## Project Structure
