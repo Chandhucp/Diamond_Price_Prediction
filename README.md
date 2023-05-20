@@ -48,5 +48,18 @@ Open the Jupyter Notebook data_preprocessing.ipynb and execute the cells to perf
 Open the Jupyter Notebook model_training.ipynb and execute the cells to build, train, and evaluate various machine learning models using scikit-learn. The notebook implements a pipeline to streamline the preprocessing and modeling steps, allowing for efficient and reproducible model development.
 
 
-  
+## Project Structure
+### The project directory consists of the following files and directories:
+
+- data/: Directory to store the dataset.
+- data_preprocessing.ipynb: Jupyter Notebook for data preprocessing, exploratory data analysis, and feature engineering.
+- model_training.ipynb: Jupyter Notebook for model building, training, and evaluation using pipelines.
+- model_trainer.py: Jupyter Notebook for feature importance analysis and result visualization.
+- README.md: Documentation file describing the project.
+- requirements.txt: List of required Python libraries for easy installation.
+
+
+# Results:
+The project achieves accurate diamond price prediction by machine learning algorithms,  linear regression. The performance of each model is evaluated using appropriate metrics such as mean squared error and R-squared. The feature importance analysis provides insights into the factors influencing diamond prices.
+
    
