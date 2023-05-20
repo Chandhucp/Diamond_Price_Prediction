@@ -52,7 +52,7 @@ Open the Jupyter Notebook model_training.ipynb and execute the cells to build, t
 ### The project directory consists of the following files and directories:
 
 - data/: Directory to store the dataset.
-- data_preprocessing.ipynb: Jupyter Notebook for data preprocessing, exploratory data analysis, and feature engineering.
+- EDA.ipynb: Jupyter Notebook for data preprocessing, exploratory data analysis, and feature engineering.
 - model_training.ipynb: Jupyter Notebook for model building, training, and evaluation using pipelines.
 - model_trainer.py: Jupyter Notebook for feature importance analysis and result visualization.
 - README.md: Documentation file describing the project.
