@@ -7,9 +7,9 @@ This project aims to predict the price of diamonds based on various features usi
 
 ## Table of Contents
 
-- [Dataset](#dataset)
-- [Installation](#installation)
-- [Project Structure](#project-structure)
+- [Dataset](#https://github.com/Chandhucp/Diamond_Price_Prediction/blob/main/notebooks/data/gemstone.csv)
+- [Installation](#https://github.com/Chandhucp/Diamond_Price_Prediction/blob/main/requirements.txt)
+- [Project Structure](#https://github.com/Chandhucp/Diamond_Price_Prediction/blob/main/notebooks/data/model_training.ipynb)
 - [Results](#results)
 - [Contributing](#contributing)
 
