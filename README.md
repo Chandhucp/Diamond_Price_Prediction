@@ -80,6 +80,7 @@ The project achieves accurate diamond price prediction by machine learning algor
 
    
 ## *Follow me on* 
+=================
 
 - [Medium](https://medium.com/@chandrashekar316)
 - [LinkedIn](https://www.linkedin.com/in/chandrashekar316/)
